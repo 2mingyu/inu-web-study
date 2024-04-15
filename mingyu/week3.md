@@ -6,6 +6,8 @@
 
 시험 날짜 확인
 ## Environment Setup to Learn JavaScript
-Live Server / Node / Code Runner
+- Live Server
+- Node
+- Code Runner
 ## Object Properties
-1.js
+week3-1.js
