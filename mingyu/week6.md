@@ -17,5 +17,5 @@ package.json 파일에
     "start": "node app.js"  
   },  
 위와 같이 작성되어 있다.  
-npm build 명령 시 ./client/app.jsx 코드를 브라우저에서 실행하도록 ./public/js/app.js 로 변환  
+npm run build 명령 시 ./client/app.jsx 코드를 브라우저에서 실행하도록 ./public/js/app.js 로 변환  
 npm start 명령 시 ./app.js 에서 Node.js 실행
